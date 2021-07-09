@@ -39,6 +39,6 @@ Mydb POD'u terminate olduğunda verilerin ve konfigürasyonun silinmemesi gereki
 
 deneme1
  denemee
-
+hello
 
  
