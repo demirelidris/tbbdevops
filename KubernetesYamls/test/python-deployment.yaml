@@ -19,7 +19,7 @@ spec:
       - name: secret-key
       containers:
       - name: myflask
-        image: idrisdemirel/tbbpython:latest
+        image: idrisdemirel/tbbproject:v$DOCKER_BUILD_NUMBER
         imagePullPolicy: Always 
         ports:
         - containerPort: 5001
